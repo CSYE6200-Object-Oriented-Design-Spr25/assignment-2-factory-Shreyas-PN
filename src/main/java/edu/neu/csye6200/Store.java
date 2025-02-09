@@ -7,7 +7,7 @@ public class Store extends AbstractStore {
 
     @Override
     public void demo() {
-        String basePath = "src/main/java/edu/neu/csye6200/data/";
+        String basePath = "data/";
         
         List<String> foodData = FileUtil.readCSV(basePath + "FoodItemCSV.txt");
         List<String> electronicData = FileUtil.readCSV(basePath + "ElectronicItemCSV.txt");
