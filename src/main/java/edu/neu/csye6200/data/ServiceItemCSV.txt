@@ -1,0 +1,5 @@
+1,Car Wash,25,1
+2,Gym Membership,300,12
+3,Home Cleaning,150,3
+4,Pet Grooming,80,2
+5,Music Lessons,200,6
